@@ -1,4 +1,4 @@
-# Sales Data Analysis Project
+# Retail Sales Data Analysis Project
 
 ## Project Overview
 This project involves an in-depth analysis of a sales dataset sourced from Kaggle. The primary objective is to uncover actionable business insights from the data using Python for data cleaning, manipulation, and visualization, and SQL for querying the dataset. By analyzing key metrics such as product performance, regional sales, and time-based trends, this project aims to provide valuable business intelligence to support decision-making.
